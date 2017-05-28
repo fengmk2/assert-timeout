@@ -18,7 +18,7 @@
     "url": "https://github.com/funraiseme/simgr/issues"
   },
   "dependencies": {
-    "ms": "~0.6.1"
+    "ms": "~2.0.0"
   },
   "devDependencies": {
     "co": ">= 3.0.1",
